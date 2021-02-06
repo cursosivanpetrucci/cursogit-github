@@ -1,4 +1,4 @@
-# Anotacoes curso GIT-GITHUB :computer_mouse:
+﻿# Anotacoes curso GIT-GITHUB :computer_mouse:
 
 Comandos 
 
@@ -31,7 +31,7 @@ Comandos
 #### GIT PUSH
 
 - Empurra os arquivos para o GITHUB
-  - Sintaxe: **git push origin master** //  **git push -u master**
+  - Sintaxe: **git push origin master** //  **git push -u master** //  **git push -f master**
 
 
 

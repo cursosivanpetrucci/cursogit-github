@@ -15,6 +15,8 @@ Comandos
 #### GIT STATUS
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+
 - Mostra o status do GIT
 
   - Sintaxe: **git status**
@@ -22,6 +24,7 @@ Comandos
   
 
 #### GIT COMMIT
+
 - Comita as informacoes no GIT
   - Sintaxe: **gi commit -m "Descritivo"**
 
@@ -36,8 +39,8 @@ Comandos
 
 - Seta as configuracoes da conta GIT
   - Sintaxe:  **git config --list** -> Mostra o profile da conta
-    - ​		**git config --global --unset user.email** -> Remove o email do usuario
-    - ​		**git config user.email "aaaa@aaaa"** -> Seta o email do usario
+    - 		**git config --global --unset user.email** -> Remove o email do usuario
+    - 		**git config user.email "aaaa@aaaa"** -> Seta o email do usario
 
 #### GIT REMOTE
 
@@ -57,4 +60,3 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
 Usar o **git pull origin master**
-

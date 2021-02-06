@@ -1,18 +1,46 @@
-# Livro de Receitas  :chicken:
+# Anotacoes curso GIT-GITHUB :computer_mouse:
+
+Comandos 
+
+#### GIT Init
+
+- Inicia uma área de GIT na pasta atual
+  - Sintaxe:  **git init**
+
+#### GIT ADD
+
+- Coloca o arquivo local no GIT
+  - Sintaxe: **git add <arquivo> ou git add ***
+
+#### GIT STATUS
+
+- Mostra o status do GIT
+
+  - Sintaxe: **git status**
+
+  
+
+#### GIT COMMIT
+
+- Comita as informacoes no GIT
+  - Sintaxe: **gi commit -m "Descritivo"**
+
+#### GIT PUSH
+
+- Empurra os arquivos para o GITHUB
+  - Sintaxe: **git push origin master** //  **git push -u master**
 
 
 
-### Ingredientes
+#### GIT CONFIG
 
-- Agua
-- Acucar
-- Sal
+- Seta as configuracoes da conta GIT
+  - Sintaxe:  **git config --list** -> Mostra o profile da conta
+    - ​		**git config --global --unset user.email** -> Remove o email do usuario
+    - ​		**git config user.email "aaaa@aaaa"** -> Seta o email do usario
 
-**Fim da Receita**
+#### GIT REMOTE
 
+**Adicionar no git a conta GITHUB**
 
-
-
-
-![image-20210206105314372](C:\Users\Denise\AppData\Roaming\Typora\typora-user-images\image-20210206105314372.png)
-
+- git remote add origin https://github.com/cursosivanpetrucci/cursogit-github.git

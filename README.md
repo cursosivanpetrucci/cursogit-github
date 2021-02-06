@@ -60,3 +60,9 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
 Usar o **git pull origin master**
+
+
+# Quando quiser SYNC server com remoto
+
+Usar o **git fetch origin**
+

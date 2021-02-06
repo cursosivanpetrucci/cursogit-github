@@ -14,6 +14,7 @@ Comandos
 
 #### GIT STATUS
 
+<<<<<<< HEAD
 - Mostra o status do GIT
 
   - Sintaxe: **git status**
@@ -21,7 +22,6 @@ Comandos
   
 
 #### GIT COMMIT
-
 - Comita as informacoes no GIT
   - Sintaxe: **gi commit -m "Descritivo"**
 
@@ -44,3 +44,17 @@ Comandos
 **Adicionar no git a conta GITHUB**
 
 - git remote add origin https://github.com/cursosivanpetrucci/cursogit-github.git
+
+
+
+# Quando houver conflito
+
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+
+Usar o **git pull origin master**
+
